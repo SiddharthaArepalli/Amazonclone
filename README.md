@@ -1,5 +1,5 @@
 # Amazonclone
-The website is built using HTML and CSS, with HTML providing the structure and CSS handling the styling and layout.
+This website is built using HTML and CSS, with HTML providing the structure and CSS handling the styling and layout.
 
 The website incorporates responsive design principles, ensuring that it can adapt and display properly on various devices and screen sizes.
 
